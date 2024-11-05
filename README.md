@@ -13,9 +13,7 @@ Create the environment
 ```
 conda create -n codetest python=3.9
 conda activate codetest
-```
--------
-```
+
 pip install ipykernel
 pip install numpy==1.26
 pip install geopandas

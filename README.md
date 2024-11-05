@@ -1,6 +1,7 @@
 # Sharing notebooks with examples
 
-- USDA_geology - Plotting geological map and identifying where the input stations locate
+- USDA_geology - Plotting geological map and identifying where the input stations locate<br>
+  (Please note that the notebook does not implement the geological unit color standards while plotting.)
 - US-EPA_ecoregions - Mapping ecoregions map and identifying where the input stations are
 - SensitivityKernels 
   

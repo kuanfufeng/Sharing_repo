@@ -21,6 +21,8 @@ pip install geopandas
 pip install pandas
 pip install fiona
 pip install dbfread
+pip install matplotlib
+pip install disba
 conda install -c conda-forge gmt --solver=classic
 pip install pygmt
 ```
